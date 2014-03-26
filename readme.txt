@@ -1,2 +1,6 @@
-## »ùÓÚTHINKPHP¿ª·¢µÄÆóÒµÍøÕ¾½â¾ö·½°¸
+## thinknextä¼ä¸šç½‘ç«™è§£å†³æ–¹æ¡ˆ
+## åç«¯åŸºäºTHINKPHP v3.1.3æ¡†æ¶å¼€å‘
+## å‰ç«¯åŸºäºbootstrap v3.0.3æ¡†æ¶å¼€å‘
 ## github:https://github.com/justfantasy/thinknext.git
+
+## é¡¹ç›®å¼€å‘å¼€å§‹æ—¶é—´ï¼š2014-03-26
